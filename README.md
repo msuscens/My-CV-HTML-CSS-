@@ -1,2 +1,3 @@
 # My-CV-HTML-CSS-
-My CV that I've written using HML and CSS only
+My CV that I've written using HTML and CSS only.
+I developed this local page to demonstrate my HTML & CSS skills.
