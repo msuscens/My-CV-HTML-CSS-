@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&display=swap');
+
+.headfootStyle{
+  padding: 30px;
+  background: #357ADB;
+  color: white;
+}
+
+#nameStyle{
+/*  color: white; */
+  font-family: Times New Roman, serif;
+  font-size: 60px;
+  font-weight: bolder;
+  text-align: center;
+  // text-align: top;
+  margin: 0;
+  padding: 30px;
+  padding-top:0px;
+
+}
+
+#photoCircleRight{
+  border-radius: 50%;
+
+  position: absolute;
+  right: 13px;
+  top: 13px;
+  border: 3px solid #357ADB;
+  padding: 10px;
+  width: 250px;
+}
+
+#profileStyle{
+  font-family: 'Catamaran', sans-serif;
+  padding: 30px;
+  padding-bottom:0px;
+  width: 70%;
+  text-align: justify;
+
+}
+
+.eduworkStyle{
+  padding: 30px;
+  padding-top: 0px;
+/*  color: #357ADB; */
+}
+
+.eduworkStyle hr{
+  color: #357ADB;
+}
+.eduworkStyle h2, th{
+    color:gray;
+}
+
+
+.iconStyle{
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+}
